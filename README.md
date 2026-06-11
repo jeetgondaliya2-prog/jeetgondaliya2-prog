@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jeet Gondaliya</h1>
 
 <h3 align="center">
-🚀 Computer Engineering Student | 💻 DSA Enthusiast
+🚀 Computer Engineering Student | 💻 DSA Enthusiast 
 </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;DSA+Problem+Solver;Learning+AI+and+Machine+Learning;Building+Cool+Projects;Future+AI+Engineer" />
 </p>
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
@@ -75,4 +73,4 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jeet-gondaliya-9428b4381)
