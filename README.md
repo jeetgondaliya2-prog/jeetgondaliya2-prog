@@ -1,18 +1,23 @@
 <h1 align="center">Hi 👋, I'm Jeet Gondaliya</h1>
 
-<h3 align="center">Computer Engineering Student | DSA Enthusiast | Future AI Engineer</h3>
+<h3 align="center">
+🚀 Computer Engineering Student | 💻 DSA Enthusiast
+</h3>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;DSA+Problem+Solver;Learning+AI+and+Machine+Learning;Building+Cool+Projects;Future+AI+Engineer" />
+</p>
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
 - 🎓 Computer Engineering Student
 - 💻 Solving DSA problems daily
-- 🤖 Interested in AI & Machine Learning
-- 🌱 Currently learning C++, Python and Web Development
-- 🎯 Goal: Become an AI Engineer
+- 🌱 Learning C++, Python and AI/ML
+- 🔥 Interested in Open Source
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -30,38 +35,44 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=jeetgondaliya2-prog&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jeetgondaliya2-prog&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeetgondaliya2-prog&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetgondaliya2-prog&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📈 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetgondaliya2-prog&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetgondaliya2-prog&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-- LinkedIn: Add your LinkedIn link
-- Email: Your email
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jeetgondaliya2-prog&theme=tokyonight&row=1&column=6" />
+</p>
 
-<!--
-**jeetgondaliya2-prog/jeetgondaliya2-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👀 Profile Views
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jeetgondaliya2-prog&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
