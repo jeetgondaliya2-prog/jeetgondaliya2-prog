@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeet Gondaliya</h1>
 
 <h3 align="center">
-🚀 Computer Engineering Student | 💻 DSA Enthusiast 
+🚀Electronic and Communicatiion student | 💻 DSA Enthusiast 
 </h3>
 
 <p align="center">
