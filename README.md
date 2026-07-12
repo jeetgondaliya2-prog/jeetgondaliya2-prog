@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jeet Gondaliya
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=Electronics+%26+Communication+Engineering+Student;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Backend+Developer;Competitive+Programmer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=Electronics+%26+Communication+Engineering+Student;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!"/>
 
 <br>
 
@@ -28,7 +28,6 @@
 
 💡 I enjoy building projects, solving coding problems, and continuously improving my skills.
 
-🎯 My goal is to become a Software Engineer and contribute to impactful real-world technologies.
 
 ---
 
@@ -131,7 +130,6 @@ A responsive portfolio showcasing my projects and technical skills.
 # 📫 Connect With Me
 
 <p align="center">
-
 <a href="mailto:jeetgondaliya2@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
