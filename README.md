@@ -93,10 +93,7 @@
 
 # 📫 Connect With Me
 
-<p align="center">
-<a href="mailto:jeetgondaliya2@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+
 
 &nbsp;&nbsp;&nbsp;
 
@@ -112,17 +109,6 @@
 
 </p>
 
----
-
-# 💬 Developer Quote
-
-<p align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</p>
-
----
 
 # 💻 Coding Mode
 
