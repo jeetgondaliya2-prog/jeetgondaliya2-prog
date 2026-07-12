@@ -57,19 +57,7 @@
 
 </p>
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeetgondaliya2-prog&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetgondaliya2-prog&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -99,33 +87,9 @@
 - ⚙ Backend Development
 - 🚀 Artificial Intelligence
 
----
 
-# 🚀 Featured Projects
 
-### 💳 Paytm Clone
 
-A responsive Paytm interface built using HTML, CSS, and Tailwind CSS.
-
----
-
-### 🤝 SkillSwap
-
-A platform where users can connect and exchange skills.
-
----
-
-### ✈ Flight Simulator
-
-A 2D game developed with interactive gameplay mechanics.
-
----
-
-### 🌐 Personal Portfolio
-
-A responsive portfolio showcasing my projects and technical skills.
-
----
 
 # 📫 Connect With Me
 
