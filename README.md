@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jeet Gondaliya
+# 👋 Hi, I'm Jeet Gondaliya 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=Electronics+%26+Communication+Engineering+Student;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!"/>
 
