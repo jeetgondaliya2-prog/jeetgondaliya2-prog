@@ -63,7 +63,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=jeetgondaliya2-prog&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=jeetgondaliya2-prog&theme=chartreuse-dark&hide_border=true&cache_seconds=1&v=20260715"/>
 
 </p>
 
