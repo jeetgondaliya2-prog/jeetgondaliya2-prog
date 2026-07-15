@@ -63,7 +63,7 @@
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=11deybishal-commits&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeetgondaliya2-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=11deybishal-commits&layout=compact&theme=tokyonight&hide_border=true"/>
 
