@@ -61,12 +61,13 @@
 
 # 🔥 GitHub Streak
 
-# 🔥 GitHub Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=jeetgondaliya2-prog&theme=chartreuse-dark&hide_border=true&v=2"/>
-
+  <a href="https://streak-stats.demolab.com?user=jeetgondaliya2-prog">
+    <img
+      src="https://streak-stats.demolab.com?user=jeetgondaliya2-prog&theme=chartreuse-dark&hide_border=true&cache_seconds=0"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 ---
 
