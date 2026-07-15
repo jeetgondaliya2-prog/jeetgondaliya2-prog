@@ -62,12 +62,11 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=jeetgondaliya2-prog">
-    <img
-      src="https://streak-stats.demolab.com?user=jeetgondaliya2-prog&theme=chartreuse-dark&hide_border=true&cache_seconds=0"
-      alt="GitHub Streak"
-    />
-  </a>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=11deybishal-commits&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=11deybishal-commits&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 ---
 
