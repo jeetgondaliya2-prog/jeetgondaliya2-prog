@@ -45,7 +45,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,tailwind,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=nodejs,tailwind,git,github,vscode,anaconda"/>
 
 </p>
 
