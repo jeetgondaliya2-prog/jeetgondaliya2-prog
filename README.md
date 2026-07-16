@@ -37,7 +37,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,php,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,php,html,css,mysql,vite,vanila"/>
 
 </p>
 
