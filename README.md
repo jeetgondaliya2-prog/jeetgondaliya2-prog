@@ -62,10 +62,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=jeetgondaliya2-prog&theme=chartreuse-dark&hide_border=true&t=1752667000"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=jeetgondaliya2-prog&theme=radical&hide_border=true" />
 </p>
 
 # 📈 Contribution Graph
